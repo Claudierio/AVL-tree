@@ -1,0 +1,1 @@
+Criação de uma arvore AVL em linguagem C para a matéria de Estrutura de Dados 2.
